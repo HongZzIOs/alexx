@@ -1,23 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Kasar</title>
-<link rel="manifest" href="manifest.json">
-<link rel="stylesheet" href="style.css">
+<html><head>
+<title>AlexxIOS</title>
+<link rel="stylesheet" href="css/main.css">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover minimal-ui standalone">
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link rel="apple-touch-icon" href="Kasaricon.png"/>
+<link rel="manifest" href="manifest.json">
+<meta name="description" content="WEBSITE FOR IOS USER">
+<link rel="icon" href="img/Icon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="img/Icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 </head>
-<div class="name">
-<a href="Sections" class="tab">chevron_left</a>
-<h1>AlexxFtJina</h1>
+<body><a href="javascript:myFunction()">
+<div class="top">
+<img src="img/Signed.png">
 </div>
+</a>
 <br>
 <br>
 <br>
-</div>
+<center>
+<br>
+<br>
+<br>
+<br>
 <div class="apps">
 <a href="itms-services://?action=download-manifest&amp;url=https://www.lolzios.tk/plist/Picsart.plist">Get</a>
 <img src="img/Picsart.png">
@@ -67,7 +70,7 @@
 <br>
 <script>
 function myFunction() {
-  alert("Welcome To LolZiOS | App Is Still Signed🟢");
+  alert("Welcome To AlexxIOS | App Is Still Signed🟢");
 }
 </script>
 <br>
@@ -78,15 +81,36 @@ function myFunction() {
 
 
 
-</div>
-</center>
-<br>
-<br>
-<br>
-<br>
-<div class="nav">	
-<a href="Sections" class="tab">rectangle_stack_fill</a>
-<a href="https://kasarkhatari.github.io/" class="tab">house_fill</a>
-<a href="Search" class="tab">search_fill</a>
-</div>
-</html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
+.fa-telegram {
+  background: #0088cc;
+  color: white;
+}
+
+</style>
+
+
+<center>
+<a href="https://t.me/Theldofnop" target="_blank" class="fa fa-telegram"></a>
+<center>
+
+
+</center></center></body></html>
