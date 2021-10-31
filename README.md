@@ -10,7 +10,7 @@
 </head>
 <div class="name">
 <a href="Sections" class="tab"></a>
-<h1>Jina><</h1>
+<h1>Kingbork><</h1>
 </div>
 <br>
 <br>
