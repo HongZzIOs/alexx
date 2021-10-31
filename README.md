@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Kasar</title>
 <link rel="manifest" href="manifest.json">
 <link rel="stylesheet" href="style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover minimal-ui standalone">
@@ -10,7 +9,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 </head>
 <div class="name">
-<a href="Sections" class="tab">chevron_left</a>
+<a href="Sections" class="tab"></a>
 <h1>Jina><</h1>
 </div>
 <br>
