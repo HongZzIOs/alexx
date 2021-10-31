@@ -1,3 +1,4 @@
+<html>
 <head>
 <title>Kasar</title>
 <link rel="manifest" href="manifest.json">
@@ -10,12 +11,16 @@
 </head>
 <div class="name">
 <a href="Sections" class="tab">chevron_left</a>
-<h1>AlexxFtJina</h1>
+<h1>Jina><</h1>
 </div>
 <br>
 <br>
 <br>
-</div>
+</center>
+<br>
+<br>
+<br>
+<br>
 <div class="apps">
 <a href="itms-services://?action=download-manifest&amp;url=https://www.lolzios.tk/plist/Picsart.plist">Get</a>
 <img src="img/Picsart.png">
@@ -59,32 +64,3 @@
 <img src="img/Uncover.png">
 <h1>Uncover7.0.1</h1>
 </div>
-
-</center>
-<br>
-<br>
-<script>
-function myFunction() {
-  alert("Welcome To LolZiOS | App Is Still Signed🟢");
-}
-</script>
-<br>
-<br>
-<br>
-
-
-
-
-
-</div>
-</center>
-<br>
-<br>
-<br>
-<br>
-<center>
-<a href="https://t.me/Theldofnop" target="_blank" class="fa fa-telegram"></a>
-<center>
-
-
-</center></center></body></html>
