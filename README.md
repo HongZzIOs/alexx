@@ -37,8 +37,6 @@
 <h1>Unc0ver6.2.0</h1>
 </div>
 
-
-
 <div class="apps">
 <a href="itms-services://?action=download-manifest&amp;url=https://www.lolzios.tk/plist/Taurine.plist">Get</a>
 <img src="img/Taurine.png">
@@ -62,3 +60,27 @@
 <img src="img/Uncover.png">
 <h1>Uncover7.0.1</h1>
 </div>
+  
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
+.fa-telegram {
+  background: #0088cc;
+  color: white;
+}
