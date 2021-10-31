@@ -15,7 +15,6 @@
 <br>
 <br>
 <br>
-</center>
 <br>
 <br>
 <br>
